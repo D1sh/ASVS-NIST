@@ -9,7 +9,7 @@ It's probably easiest if you copy [this Google Spreadsheet](https://docs.google.
 Alternatively, you may download one of these files:
 
 * [ASVS_v4.0_Checklist.ods]
-* [ASVS_v4.0_Checklist.xlsx](../ASVS 4.0 Checklist (template).xlsx)
+* [ASVS_v4.0_Checklist.xlsx](ASVS 4.0 Checklist (template).xlsx)
 
 # References
 https://github.com/nicoSWD/asvs-checklist
