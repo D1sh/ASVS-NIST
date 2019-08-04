@@ -41,23 +41,8 @@ more information from https://www.complianceforge.com/product/nist-800-171-compl
 * more version from https://watkinsconsulting.com/our-projects/ffiec-cybersecurity-assessment-tool/
 
 
-
-
-
-
-
-
-
 # References
-
-
-
-
-
 https://www.nist.gov/privacy-framework/resources
-
-
-
 https://www.nist.gov/cyberframework/framework
 
 
