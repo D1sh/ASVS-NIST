@@ -1,4 +1,7 @@
 # ASVS-NIST
+
+ ASVS mapping with NIST test case: **safeguards-scsem-app.xls** _on above_ 
+
 # OWASP ASVS 4.0 Checklist
 
 Checklist for OWASP's [Application Security Verification Standard 4.0.1](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
